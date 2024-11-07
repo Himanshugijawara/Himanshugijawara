@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himanshugijawara
 - 👀 I’m interested in ... Playing Online Games & Watching Movies
-- 🌱 I’m currently learning ... Python ,JavaScript ,Mysql and ,Github
+- 🌱 I’m currently learning ... Python ,JavaScript ,Mysql ,Github and Frappe ERPNext
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...My Insta Account :- @himanshu_gijawara
 - 😄 Pronouns: ...Hanshu
